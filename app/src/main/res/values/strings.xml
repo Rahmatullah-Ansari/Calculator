@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="enter_your_expression">Enter your expression</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mul">*</string>
+    <string name="divi">/</string>
+    <string name="mod">%</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="back">C</string>
+    <string name="ac">AC</string>
+    <string name="crazy_programmer">Crazy Programmer</string>
+    <string name="from">From</string>
+</resources>
